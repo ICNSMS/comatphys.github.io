@@ -1,7 +1,7 @@
 # Publications
 1. **Coupling Ion-Transport Bridging with Surface Heterogeneity Healing in Polycrystalline Ultrahigh-Ni Cathodes Toward 4.6 V Halide All-Solid-State Batteries**,
-Yanchao Fan, Qiuxue Jian, Pengfei Liu, Fangwei Wang, Peng Zhang\*, Jinkui Zhao\*, and Enyue Zhao\*,
-[Energy Storage Mater., 2026.](https://doi.org/10.1016/j.scib.2026.08.064)
+Qiankun Meng, Yanfeng Zhang, Le Kang, Pengfei Liu, Enyue Zhao\*, and Xiaoling Xiao\*,
+[Energy Storage Mater., 2026, 105518.](https://doi.org/10.1016/j.ensm.2026.105518)
 
 1. **Unlocking high fluorination efficiency of anode interphase via electrostatic interaction for ultra-stable lithium metal batteries**,
 Yanchao Fan, Qiuxue Jian, Pengfei Liu, Fangwei Wang, Peng Zhang\*, Jinkui Zhao\*, and Enyue Zhao\*,
