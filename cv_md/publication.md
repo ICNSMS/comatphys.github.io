@@ -1,4 +1,8 @@
 # Publications
+1. **Secondary-Coordination-Sphere Activation of α-Boron Sites in TM‐C2N2@h‐BCN Single-Atom Catalysts for Oxygen Electrocatalysis**,
+Kuangwei Xiong\*, Pengfei Liu,
+[J. Phys. Chem. Solids, 2026, 91, 105518.](https://doi.org/10.1016/j.ensm.2026.105518)
+
 1. **Coupling Ion-Transport Bridging with Surface Heterogeneity Healing in Polycrystalline Ultrahigh-Ni Cathodes Toward 4.6 V Halide All-Solid-State Batteries**,
 Qiankun Meng, Yanfeng Zhang, Le Kang, Pengfei Liu, Enyue Zhao\*, and Xiaoling Xiao\*,
 [Energy Storage Mater., 2026, 91, 105518.](https://doi.org/10.1016/j.ensm.2026.105518)
