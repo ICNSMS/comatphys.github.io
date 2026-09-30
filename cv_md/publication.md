@@ -1,5 +1,5 @@
 # Publications
-1. **Secondary-Coordination-Sphere Activation of α-Boron Sites in TM‐C2N2@h‐BCN Single-Atom Catalysts for Oxygen Electrocatalysis**,
+1. **Secondary-Coordination-Sphere Activation of α-Boron Sites in TM‐C<sub>2</sub>N<sub>2</sub>@h‐BCN Single-Atom Catalysts for Oxygen Electrocatalysis**,
 Kuangwei Xiong\*, Pengfei Liu,
 [J. Phys. Chem. Solids, 2026, 91, 105518.](https://doi.org/10.1016/j.ensm.2026.105518)
 
